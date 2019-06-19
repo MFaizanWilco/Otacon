@@ -1,0 +1,98 @@
+{'Date: ': '2018-10-29', 'Time: ': '14:23:52', 'Method Name: ': 'register', 'Exception: ': "'WriteError' object has no attribute 'message'", ' At Request: ': "<Request 'http://127.0.0.1:5004/user' [POST]>"}
+{'Date: ': '2018-10-29', 'Time: ': '14:24:50', 'Method Name: ': 'register', 'Exception: ': "'WriteError' object has no attribute 'message'", ' At Request: ': "<Request 'http://127.0.0.1:5004/user' [POST]>"}
+{'Date: ': '2018-11-05', 'Time: ': '17:34:38', 'Method Name: ': 'auth', 'Exception: ': "'AutoReconnect' object has no attribute 'message'", ' At Request: ': "<Request 'http://192.168.100.105:5004/auth' [POST]>"}
+{'Date: ': '2018-11-08', 'Time: ': '14:12:56', 'Method Name: ': 'auth', 'Exception: ': "'AutoReconnect' object has no attribute 'message'", ' At Request: ': "<Request 'http://127.0.0.1:5004/auth' [POST]>"}
+{'Date: ': '2018-11-23', 'Time: ': '19:29:33', 'Method Name: ': 'auth', 'Exception: ': '400: Bad Request', ' At Request: ': "<Request 'http://192.168.100.105:5005/auth' [POST]>"}
+{'Date: ': '2018-11-23', 'Time: ': '20:34:15', 'Method Name: ': 'update', 'Exception: ': "'mobile'", ' At Request: ': "<Request 'http://127.0.0.1:5005/user' [POST]>"}
+{'Date: ': '2018-11-23', 'Time: ': '20:34:59', 'Method Name: ': 'update', 'Exception: ': "'mobile'", ' At Request: ': "<Request 'http://127.0.0.1:5005/user' [POST]>"}
+{'Date: ': '2018-11-23', 'Time: ': '20:35:08', 'Method Name: ': 'update', 'Exception: ': "'mobile'", ' At Request: ': "<Request 'http://127.0.0.1:5005/user' [POST]>"}
+{'Date: ': '2018-11-23', 'Time: ': '20:35:28', 'Method Name: ': 'update', 'Exception: ': "'mobile'", ' At Request: ': "<Request 'http://127.0.0.1:5005/user' [POST]>"}
+{'Date: ': '2018-11-23', 'Time: ': '20:35:46', 'Method Name: ': 'update', 'Exception: ': "'mobile'", ' At Request: ': "<Request 'http://127.0.0.1:5005/user' [POST]>"}
+{'Date: ': '2018-11-23', 'Time: ': '20:36:27', 'Method Name: ': 'update', 'Exception: ': "'mobile'", ' At Request: ': "<Request 'http://127.0.0.1:5005/user' [POST]>"}
+{'Date: ': '2018-11-23', 'Time: ': '20:36:54', 'Method Name: ': 'update', 'Exception: ': "'mobile'", ' At Request: ': "<Request 'http://127.0.0.1:5005/user' [POST]>"}
+{'Date: ': '2018-11-26', 'Time: ': '14:54:55', 'Method Name: ': 'update', 'Exception: ': "'mobile'", ' At Request: ': "<Request 'http://127.0.0.1:5005/user' [POST]>"}
+{'Date: ': '2018-11-26', 'Time: ': '14:58:45', 'Method Name: ': 'update', 'Exception: ': "'mobile'", ' At Request: ': "<Request 'http://127.0.0.1:5005/user' [POST]>"}
+{'Date: ': '2018-11-26', 'Time: ': '17:23:30', 'Method Name: ': 'update', 'Exception: ': "'skype'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-26', 'Time: ': '17:23:46', 'Method Name: ': 'update', 'Exception: ': "'skype'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-26', 'Time: ': '17:27:40', 'Method Name: ': 'update', 'Exception: ': "'skype'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-26', 'Time: ': '19:54:21', 'Method Name: ': 'auth', 'Exception: ': 'The session is unavailable because no secret key was set.  Set the secret_key on the application to something unique and secret.', ' At Request: ': "<Request 'http://192.168.100.105:5005/auth' [POST]>"}
+{'Date: ': '2018-11-26', 'Time: ': '19:54:51', 'Method Name: ': 'auth', 'Exception: ': 'The session is unavailable because no secret key was set.  Set the secret_key on the application to something unique and secret.', ' At Request: ': "<Request 'http://192.168.100.105:5005/auth' [POST]>"}
+{'Date: ': '2018-11-26', 'Time: ': '19:55:30', 'Method Name: ': 'auth', 'Exception: ': 'The session is unavailable because no secret key was set.  Set the secret_key on the application to something unique and secret.', ' At Request: ': "<Request 'http://192.168.100.105:5005/login' [POST]>"}
+{'Date: ': '2018-11-26', 'Time: ': '19:56:37', 'Method Name: ': 'auth', 'Exception: ': 'The session is unavailable because no secret key was set.  Set the secret_key on the application to something unique and secret.', ' At Request: ': "<Request 'http://192.168.100.105:5005/login' [POST]>"}
+{'Date: ': '2018-11-26', 'Time: ': '19:56:47', 'Method Name: ': 'auth', 'Exception: ': 'The session is unavailable because no secret key was set.  Set the secret_key on the application to something unique and secret.', ' At Request: ': "<Request 'http://192.168.100.105:5005/login' [POST]>"}
+{'Date: ': '2018-11-26', 'Time: ': '19:59:27', 'Method Name: ': 'update', 'Exception: ': "'mobile'", ' At Request: ': "<Request 'http://127.0.0.1:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '15:49:47', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '16:01:22', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '16:02:11', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '16:04:14', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '16:04:18', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '16:04:22', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '16:24:43', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '16:24:47', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '16:24:54', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '16:25:10', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '16:25:11', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '16:25:12', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '16:25:12', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '16:25:12', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '16:25:13', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '16:35:20', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '18:35:04', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-11-27', 'Time: ': '18:45:17', 'Method Name: ': 'update', 'Exception: ': "'image'", ' At Request: ': "<Request 'http://192.168.100.105:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '15:47:10', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '15:47:19', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '15:47:44', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '15:48:02', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '15:48:17', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '15:48:32', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '15:53:05', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '15:57:42', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:08:57', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:10:04', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:12:46', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:13:19', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:13:44', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:15:05', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:18:22', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:20:00', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:20:08', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:21:33', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:22:50', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:23:33', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:23:52', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:24:50', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:25:06', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:25:49', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:26:43', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:27:29', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:28:02', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:31:08', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:35:06', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:37:54', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:42:09', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:42:39', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:44:56', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:45:25', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:48:53', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '16:49:22', 'Method Name: ': 'history', 'Exception: ': "name 'email' is not defined", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '17:19:58', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '17:21:00', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '17:23:16', 'Method Name: ': 'history', 'Exception: ': "'email'", ' At Request: ': "<Request 'http://192.168.100.182:5005/user' [POST]>"}
+{'Date: ': '2018-12-17', 'Time: ': '17:44:00', 'Method Name: ': 'get_history', 'Exception: ': 'Object of type ObjectId is not JSON serializable', ' At Request: ': 'History'}
+{'Date: ': '2018-12-17', 'Time: ': '17:48:01', 'Method Name: ': 'get_history', 'Exception: ': 'Object of type ObjectId is not JSON serializable', ' At Request: ': 'History'}
+{'Date: ': '2018-12-17', 'Time: ': '17:51:35', 'Method Name: ': 'get_history', 'Exception: ': 'Object of type ObjectId is not JSON serializable', ' At Request: ': 'History'}
+{'Date: ': '2018-12-17', 'Time: ': '17:54:22', 'Method Name: ': 'get_history', 'Exception: ': '__init__() takes 1 positional argument but 2 were given', ' At Request: ': 'History'}
+{'Date: ': '2018-12-17', 'Time: ': '17:56:08', 'Method Name: ': 'get_history', 'Exception: ': '__init__() takes 1 positional argument but 2 were given', ' At Request: ': 'History'}
+{'Date: ': '2018-12-17', 'Time: ': '17:59:09', 'Method Name: ': 'get_history', 'Exception: ': '__init__() takes 1 positional argument but 2 were given', ' At Request: ': 'History'}
+{'Date: ': '2018-12-17', 'Time: ': '18:00:02', 'Method Name: ': 'get_history', 'Exception: ': "encode() missing 1 required positional argument: 'o'", ' At Request: ': 'History'}
+{'Date: ': '2018-12-17', 'Time: ': '18:01:23', 'Method Name: ': 'get_history', 'Exception: ': "module 'JsonEncoder' has no attribute 'encode'", ' At Request: ': 'History'}
+{'Date: ': '2018-12-17', 'Time: ': '18:02:59', 'Method Name: ': 'get_history', 'Exception: ': "module 'json' has no attribute 'encode'", ' At Request: ': 'History'}
+{'Date: ': '2018-12-17', 'Time: ': '18:03:58', 'Method Name: ': 'get_history', 'Exception: ': "module 'json' has no attribute 'encode'", ' At Request: ': 'History'}
+{'Date: ': '2018-12-17', 'Time: ': '18:07:14', 'Method Name: ': 'get_history', 'Exception: ': 'jsonify() behavior undefined when passed both args and kwargs', ' At Request: ': 'History'}
+{'Date: ': '2018-12-17', 'Time: ': '18:09:00', 'Method Name: ': 'get_history', 'Exception: ': 'Object of type ObjectId is not JSON serializable', ' At Request: ': 'History'}
+{'Date: ': '2019-02-22', 'Time: ': '16:58:33', 'Method Name: ': 'auth', 'Exception: ': "'ServerSelectionTimeoutError' object has no attribute 'message'", ' At Request: ': "<Request 'http://127.0.0.1:5005/login' [POST]>"}
+{'Date: ': '2019-02-22', 'Time: ': '17:01:46', 'Method Name: ': 'auth', 'Exception: ': "'ServerSelectionTimeoutError' object has no attribute 'message'", ' At Request: ': "<Request 'http://127.0.0.1:5005/login' [POST]>"}
+{'Date: ': '2019-02-22', 'Time: ': '17:02:43', 'Method Name: ': 'auth', 'Exception: ': "'ServerSelectionTimeoutError' object has no attribute 'message'", ' At Request: ': "<Request 'http://127.0.0.1:5005/login' [POST]>"}
+{'Date: ': '2019-02-22', 'Time: ': '17:04:14', 'Method Name: ': 'auth', 'Exception: ': "'ServerSelectionTimeoutError' object has no attribute 'message'", ' At Request: ': "<Request 'http://127.0.0.1:5005/login' [POST]>"}
+{'Date: ': '2019-02-25', 'Time: ': '15:02:26', 'Method Name: ': 'auth', 'Exception: ': "'ServerSelectionTimeoutError' object has no attribute 'message'", ' At Request: ': "<Request 'http://127.0.0.1:5005/login' [POST]>"}
+{'Date: ': '2019-02-25', 'Time: ': '15:02:59', 'Method Name: ': 'auth', 'Exception: ': "'ServerSelectionTimeoutError' object has no attribute 'message'", ' At Request: ': "<Request 'http://127.0.0.1:5005/login' [POST]>"}
