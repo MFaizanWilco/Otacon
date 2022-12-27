@@ -5,7 +5,7 @@ pandas==0.23.4
 schedule==0.5.0
 pymongo==3.7.0
 Flask_RESTful==0.3.6
-setuptools==39.1.0
+setuptools==65.5.1
 requests==2.18.4
 Flask_Cors==3.0.4
 numpy==1.15.4
